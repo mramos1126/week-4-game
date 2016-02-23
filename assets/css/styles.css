@@ -1,0 +1,99 @@
+body {
+
+	background-image: url(../images/background.jpg);
+}
+
+.container {
+
+max-width: 960px;
+width: 100%;
+clear : both;
+margin: 0 auto;
+float: left;
+}
+ #logo {
+
+ 	background-color: orange;
+color: white;
+ font-family: Arial, Helvetica;
+ width: 300px;
+ height: 90px;
+ text-align: center;
+ text-decoration: none;
+line-height: 90px;
+font-weight: 700px;
+font-size: 30px
+  }
+  .main-content{
+background-color:yellow;
+color: green;
+float: left;
+font-family: Arial, Helvetica;
+padding-top: 10px;
+padding-bottom: 75px;
+margin: 0 0 40px 0;
+max-width:480px;
+border: 1px solid #ddd;
+width: 100%;
+}
+
+#cpu {
+
+width: 300px;
+max-width: 100%;
+margin: 0 auto;
+padding-bottom: 150px;
+background-color: #4aaaa5;
+text-align: center;
+color: purple;
+float: left;
+}
+#score {
+
+max-width: 200px;
+padding-right: 100px;
+padding-bottom: 70px;
+background-color: #4aaaa5;
+text-align: center;
+color: purple;
+
+}
+#logo2 {
+
+ 	background-color: #4aaaa5;;
+color: white;
+ font-family: Arial, Helvetica;
+ width: 300px;
+ height: 50px;
+ text-align: center;
+ text-decoration: none;
+max-width: 960px;
+clear : both;
+float: left;
+font-size: 30px
+  }
+
+#points{
+ 
+
+ 	background-color: #4aaaa5;;
+color: white;
+ font-family: Arial, Helvetica;
+ width: 300px;
+ height: 150px;
+ text-align: center;
+ text-decoration: none;
+max-width: 960px;
+clear : both;
+float: left;
+font-size: 30px;
+ clear:both; 
+  }
+
+
+
+
+
+
+
+
